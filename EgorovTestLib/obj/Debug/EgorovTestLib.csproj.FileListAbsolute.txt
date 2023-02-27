@@ -1,0 +1,6 @@
+C:\Users\stud\source\repos\EgorovTestLib\bin\Debug\EgorovTestLib.dll
+C:\Users\stud\source\repos\EgorovTestLib\bin\Debug\EgorovTestLib.pdb
+C:\Users\stud\source\repos\EgorovTestLib\obj\Debug\EgorovTestLib.csprojAssemblyReference.cache
+C:\Users\stud\source\repos\EgorovTestLib\obj\Debug\EgorovTestLib.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\EgorovTestLib\obj\Debug\EgorovTestLib.dll
+C:\Users\stud\source\repos\EgorovTestLib\obj\Debug\EgorovTestLib.pdb
